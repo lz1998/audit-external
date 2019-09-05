@@ -8,8 +8,7 @@
         name: "Map",
         data(){
             return{
-                map:{},
-                layer:{}
+                map:{}
             }
         },
         mounted() {
