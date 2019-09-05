@@ -21,9 +21,8 @@
 
                     }
                 },
-
-
-                layer:{}
+                layer:{},
+                map:{}
             }
         },
         mounted() {
