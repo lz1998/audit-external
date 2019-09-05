@@ -37,7 +37,7 @@ Vue.use(VueAMap);
 // 初始化vue-amap
 VueAMap.initAMapApiLoader({
   // 高德的key
-  key: 'daaf775f47eef32368ba55949eecb8ad',
+  key: 'aa0d6fecede0af0053fd0e62b86cce1d',
   // 插件集合
   plugin: ['AMap.Autocomplete', 'AMap.PlaceSearch', 'AMap.Scale', 'AMap.OverView', 'AMap.ToolBar', 'AMap.MapType', 'AMap.PolyEditor', 'AMap.CircleEditor'],
   // 高德 sdk 版本，默认为 1.4.4
